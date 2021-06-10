@@ -9,7 +9,7 @@ click==6.7
 cryptography==2.3.1
 Cython==0.28.5
 decorator==4.3.0
-Django==2.0
+Django==2.2.24
 djangorestframework==3.7.3
 dlib==19.15.0
 entrypoints==0.2.3
