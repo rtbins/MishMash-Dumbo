@@ -33,7 +33,7 @@ jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
-jwcrypto==0.5.0
+jwcrypto==1.4
 Markdown==2.6.11
 MarkupSafe==1.0
 mistune==0.8.3
